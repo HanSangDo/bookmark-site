@@ -9,3 +9,5 @@
 7. ##### [Maven Repository Search](https://mvnrepository.com/)
 8. ##### [AdminLTE2 관리자 템플릿](https://adminlte.io/themes/AdminLTE/index2.html)
 9. ##### [비즈사이렌](https://www.bizsiren.com/)
+10. ##### [jQuery API Documentation](https://api.jquery.com/)
+11. ##### [도서관 정보나루](https://www.data4library.kr/)
